@@ -4,4 +4,19 @@ A Flutter project implementing clubhouse user interface.
 
 ## Screenshots
 
-![Home Screen 1] (https://github.com/amity-ak97/ClubHouse_Flutter_UI/blob/main/Screenshots/Home1.jpg?raw=true)
+#### Home Screens
+<p align="center">
+  <img src="/Screenshots/Home1.jpg" width="350" />
+  
+  <img src="/Screenshots/Home2.jpg" width="350" />
+  
+</p>
+
+#### Room Screens
+<p align="center">
+  <img src="/Screenshots/Room1.jpg" width="350" />
+  
+  <img src="/Screenshots/Room2.jpg" width="350" />
+  
+</p>
+
