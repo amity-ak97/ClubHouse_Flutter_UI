@@ -1,3 +1,5 @@
+<p align="left"> <a href="https://twitter.com/amity_ak97" target="blank"><img src="https://img.shields.io/twitter/follow/amity_ak97?logo=twitter&style=for-the-badge" alt="amity_ak97" /></a> </p>
+
 # ClubHouse Flutter UI
 
 A Flutter project implementing clubhouse user interface.
